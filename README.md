@@ -48,28 +48,30 @@ The application features user authentication, Todo CRUD operations, form validat
   ```
   > **Note:** A Dockerfile is included in the project for users who prefer to build the Docker image locally instead of using the pre-built image available on Docker Hub.
 
-### Option 2: Run using the packaged WAR
+### Option 2: Run locally using the Source Code or Packaged WAR File
 - Prerequisites
    * JDK 17 or higher
-   * No Maven installation required, as maven wrapper is included.
+   * No Maven installation required, as maven wrapper is included
 
 - Clone Repository
     ```bash
     git clone https://github.com/fatehdeepwalla/Todo-Management-Web-Application.git
     cd Todo-Management-Web-Application
     ```
-
-- Build the application:
+    
+- Run directly from source code Using Maven Wrapper
   ```bash
-  ./mvnw clean package
+  ./mvnw spring-boot:run 
   ```
-
-- Run the packaged application:
+  
+- Build and run packaged WAR file:
   ```bash
+  ./mvnw clean package 
   ./java -jar target/ToDo_APP-0.0.1-SNAPSHOT.war
   ```
-> **Note:** For your convenience, the pre-built .war file is provided below, so you can run the application directly without building the project yourself.<br>
-> **Download:** [Download the pre-built WAR ⬇️](ToDo_APP-0.0.1-SNAPSHOT.war)
+
+  > **Note:** For your convenience, the pre-built .war file is provided below, so you can run the application directly without building the project yourself.<br>
+  > **Download:** [Download the pre-built WAR ⬇️](ToDo_APP-0.0.1-SNAPSHOT.war)
 
 ---
 
