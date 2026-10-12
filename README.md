@@ -51,7 +51,7 @@ The application features user authentication, Todo CRUD operations, form validat
 ### Option 2: Run using the packaged WAR
 - Prerequisites
    * JDK 17 or higher
-   * No Maven installation required
+   * No Maven installation required, as maven wrapper is included.
 
 - Clone Repository
     ```bash
@@ -71,22 +71,6 @@ The application features user authentication, Todo CRUD operations, form validat
 > **Note:** For your convenience, the pre-built .war file is provided below, so you can run the application directly without building the project yourself.<br>
 > **Download:** [Download the pre-built WAR ⬇️](ToDo_APP-0.0.1-SNAPSHOT.war)
 
-
-### Option 3: Run using Maven
-- Prerequisites
-   * JDK 17 or higher
-   * Maven 3.8+
-
-- Clone Repository
-    ```bash
-    git clone https://github.com/fatehdeepwalla/Todo-Management-Web-Application.git
-    cd Todo-Management-Web-Application
-    ```
-   
-- Launch Application
-    ```bash
-    ./mvnw spring-boot:run
-    ```
 ---
 
 ## 🖥️ Accessing the Application
