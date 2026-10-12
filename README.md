@@ -89,7 +89,7 @@ The application features user authentication, Todo CRUD operations, form validat
     ```
 ---
 
-## 🔗 Accessing the Application
+## 🖥️ Accessing the Application
 
 - 🌐 Web Dashboard: `http://localhost:8080`
 - 🔐 Application Login:
