@@ -1,5 +1,5 @@
 
-# 📝 Todo Management Web Application
+# Todo Management Web Application
 
 A secure full stack Todo management web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
 
