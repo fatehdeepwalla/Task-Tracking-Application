@@ -1,7 +1,7 @@
 
-# Todo Management Web Application
+# Task Tracking Application
 
-A secure full stack Todo management web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
+A secure full stack task tracking web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
 
 The application features user authentication, Todo CRUD operations, form validation, and database persistence.
 
@@ -67,7 +67,7 @@ The application features user authentication, Todo CRUD operations, form validat
 - Build and run packaged WAR file:
   ```bash
   ./mvnw clean package 
-  ./java -jar target/ToDo_APP-0.0.1-SNAPSHOT.war
+  java -jar target/ToDo_APP-0.0.1-SNAPSHOT.war
   ```
 
   > **Note:** For your convenience, the pre-built .war file is provided below, so you can run the application directly without building the project yourself.<br>
