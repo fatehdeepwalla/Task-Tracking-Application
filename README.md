@@ -3,7 +3,7 @@
 
 A secure full stack task tracking web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
 
-The application features user authentication, Todo CRUD operations, form validation, and database persistence.
+The application features user authentication, CRUD Operations, form validation, and database persistence.
 
 ---
 
@@ -24,7 +24,7 @@ The application features user authentication, Todo CRUD operations, form validat
 
 ## ✨ Key Features
 
-* **Authentication**: Secure authentication powered by Spring Security using standard form logins.
+* **Authentication**: Form-based authentication using Spring Security.
 * **Full Task Lifecycle (CRUD)**: Create, view, update, and delete personal todo items bound to individual logged-in user sessions.
 * **Data Validation**: Server-side field validation to ensure valid description lengths and completion dates before saving.
 * **Responsive UI**: Built with Bootstrap 5 templates and interactive datepickers for accurate target date management.
