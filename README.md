@@ -1,9 +1,8 @@
 
 # Task Tracking Application
 
-A secure full stack task tracking web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
-
-The application features user authentication, CRUD Operations, form validation, and database persistence.
+- A secure full stack task tracking web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
+- The application features user authentication, CRUD Operations, form validation, and database persistence.
 
 ---
 
