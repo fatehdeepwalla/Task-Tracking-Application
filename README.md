@@ -9,16 +9,16 @@ The application features user authentication, Todo CRUD operations, form validat
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
-| :--- | :--- |
-| **Backend Framework** | Java \| Spring Boot \| Spring MVC |
-| **Security** | Spring Security |
-| **Persistence Layer** | Spring Data JPA \| Hibernate |
-| **Database** | H2 In-Memory Database |
-| **Frontend Templates** | JSP (JavaServer Pages) \| JSTL |
-| **UI & Styling** | Bootstrap 5 \| jQuery |
-| **Build Tooling** | Apache Maven |
-| **Containerization** | Docker |
+  | Layer | Technology |
+  | :--- | :--- |
+  | **Backend Framework** | Java \| Spring Boot \| Spring MVC |
+  | **Security** | Spring Security |
+  | **Persistence Layer** | Spring Data JPA \| Hibernate |
+  | **Database** | H2 In-Memory Database |
+  | **Frontend Templates** | JSP (JavaServer Pages) \| JSTL |
+  | **UI & Styling** | Bootstrap 5 \| jQuery |
+  | **Build Tooling** | Apache Maven |
+  | **Containerization** | Docker |
 
 ---
 
