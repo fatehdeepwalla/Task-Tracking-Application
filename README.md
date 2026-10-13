@@ -16,7 +16,7 @@ The application features user authentication, Todo CRUD operations, form validat
 | **Persistence Layer** | Spring Data JPA, Hibernate |
 | **Database** | H2 In-Memory Database |
 | **Frontend Templates** | JSP (JavaServer Pages), JSTL |
-| **UI & Styling** | Bootstrap 5, jQuery, Bootstrap Datepicker |
+| **UI & Styling** | Bootstrap 5, jQuery |
 | **Validation** | Hibernate Validator |
 | **Build Tooling** | Apache Maven |
 | **Containerization** | Docker |
@@ -25,7 +25,7 @@ The application features user authentication, Todo CRUD operations, form validat
 
 ## ✨ Key Features
 
-* **Authentication**: Secure authentication powered by Spring Security using standard form logins and BCrypt password encryption.
+* **Authentication**: Secure authentication powered by Spring Security using standard form logins.
 * **Full Task Lifecycle (CRUD)**: Create, view, update, and delete personal todo items bound to individual logged-in user sessions.
 * **Data Validation**: Server-side field validation to ensure valid description lengths and completion dates before saving.
 * **Responsive UI**: Built with Bootstrap 5 templates and interactive datepickers for accurate target date management.
