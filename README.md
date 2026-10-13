@@ -55,8 +55,8 @@ The application features user authentication, Todo CRUD operations, form validat
 
 - Clone Repository
     ```bash
-    git clone https://github.com/fatehdeepwalla/Todo-Management-Web-Application.git
-    cd Todo-Management-Web-Application
+    git clone https://github.com/fatehdeepwalla/Task-Tracking-Application.git
+    cd Task-Tracking-Application
     ```
     
 - Run directly from source code Using Maven Wrapper
