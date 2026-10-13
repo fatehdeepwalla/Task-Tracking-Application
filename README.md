@@ -12,7 +12,7 @@ The application features user authentication, Todo CRUD operations, form validat
 | Layer | Technology |
 | :--- | :--- |
 | **Backend Framework** | Java, Spring Boot, Spring MVC |
-| **Security** | Spring Security (Form Authentication, BCrypt Password Encoding) |
+| **Security** | Spring Security |
 | **Persistence Layer** | Spring Data JPA, Hibernate |
 | **Database** | H2 In-Memory Database |
 | **Frontend Templates** | JSP (JavaServer Pages), JSTL |
