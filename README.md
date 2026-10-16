@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
   | Layer | Technology |
   | :--- | :--- |
-  | **Backend Framework** | Java \| Spring Boot \| Spring MVC |
+  | **Backend** | Java \| Spring Boot \| Spring MVC |
   | **Security** | Spring Security |
   | **Persistence Layer** | Spring Data JPA \| Hibernate |
   | **Database** | H2 In-Memory Database |
